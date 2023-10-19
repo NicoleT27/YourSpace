@@ -84,8 +84,5 @@ This Application was Made with the contributions of:
     - Github : https://github.com/smokerdog57
 
 
-## GitHub-repository
-https://github.com/alejandra-e-bernabel/YourSpace
-
 ## Deployed-application-link
 https://your-space-b0e277e1dff1.herokuapp.com/
