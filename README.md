@@ -7,7 +7,6 @@ This web application interface is a blast from the past as it replicates the nos
 ## Table of Contents
 - [Description](#description)
 - [Badges](#badges)
-- [Installation](#install)
 - [Usage](#usage)
 - [License](#license)
 - [GitHub-repository](#github-repository)
@@ -21,22 +20,10 @@ This web application interface is a blast from the past as it replicates the nos
 ![node.js](https://img.shields.io/badge/node.js-12.0-green.svg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![github](https://img.shields.io/badge/github-Profile-lightgrey.svg)
-![Heroku](https://img.shields.io/badge/Heroku-App-blueviolet?logo=heroku)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Install
-1. Clone the repository from Github
-```
-git clone git@github.com:alejandra-e-bernabel/YourSpace.git
-```
-2. Open the cloned respository in any source code editor
-3. Open the integrated terminal for the document and enter this code to install the dependencies
-```
-npm install 
-```
-    
 
 ## Usage
 1. Open webpage
