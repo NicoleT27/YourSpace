@@ -4,9 +4,6 @@ const db = require("./config/connection.js");
 const mongoose = require("mongoose");
 const routes = require("./routes/friends-route.js");
 
-
-// const Friends = require("./models/friends-model");
-
 const app = express();
 const PORT = process.env.PORT || 4000;
 

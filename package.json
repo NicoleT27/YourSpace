@@ -26,6 +26,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "mongodb": "^6.5.0",
     "mongoose": "^8.3.3",
     "tailwindcss": "^3.3.3",
     "tw-elements": "^1.0.0"
